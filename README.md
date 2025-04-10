@@ -1,1 +1,4 @@
-# weather-practice-repo
+## How to run
+
+```bash
+python weather.py
